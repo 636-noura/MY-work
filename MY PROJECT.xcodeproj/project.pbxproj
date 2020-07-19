@@ -13,10 +13,23 @@
 		18D50F0F24B9F72400DBC432 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D50F0D24B9F72400DBC432 /* Main.storyboard */; };
 		18D50F1124B9F73900DBC432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D50F1024B9F73900DBC432 /* Assets.xcassets */; };
 		18D50F1424B9F73900DBC432 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D50F1224B9F73900DBC432 /* LaunchScreen.storyboard */; };
+		18D50F1C24BF790900DBC432 /* places.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F1B24BF790900DBC432 /* places.swift */; };
+		18D50F1E24C204D000DBC432 /* TableViewController places.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F1D24C204CF00DBC432 /* TableViewController places.swift */; };
+		18D50F2024C231E300DBC432 /* ViewControllerdetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F1F24C231E300DBC432 /* ViewControllerdetails.swift */; };
+		18D50F2224C2325A00DBC432 /* ViewControllermaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2124C2325A00DBC432 /* ViewControllermaster.swift */; };
+		18D50F2424C232F500DBC432 /* struct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2324C232F500DBC432 /* struct.swift */; };
+		18D50F2624C26A6300DBC432 /* ViewControllermuse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2524C26A6200DBC432 /* ViewControllermuse.swift */; };
+		18D50F2824C33E3600DBC432 /* ViewControllermusedetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2724C33E3500DBC432 /* ViewControllermusedetailsViewController.swift */; };
+		18D50F2A24C3707D00DBC432 /* ViewControllerresturant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2924C3707D00DBC432 /* ViewControllerresturant.swift */; };
+		18D50F2C24C370A200DBC432 /* ViewControllerresturantdetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2B24C370A200DBC432 /* ViewControllerresturantdetails.swift */; };
+		18D50F2E24C370F500DBC432 /* ViewControllercafes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2D24C370F500DBC432 /* ViewControllercafes.swift */; };
+		18D50F3024C3710D00DBC432 /* ViewControllercafesdetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F2F24C3710D00DBC432 /* ViewControllercafesdetails.swift */; };
+		18D50F3224C3715800DBC432 /* ViewControllerentertainment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F3124C3715800DBC432 /* ViewControllerentertainment.swift */; };
+		18D50F3424C3716C00DBC432 /* ViewControllerentertainmentdetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D50F3324C3716C00DBC432 /* ViewControllerentertainmentdetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18D50F0424B9F72400DBC432 /* MY PROJECT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MY PROJECT.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18D50F0424B9F72400DBC432 /* 6al3a.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 6al3a.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D50F0724B9F72400DBC432 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18D50F0924B9F72400DBC432 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		18D50F0B24B9F72400DBC432 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +37,19 @@
 		18D50F1024B9F73900DBC432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18D50F1324B9F73900DBC432 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18D50F1524B9F73900DBC432 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18D50F1B24BF790900DBC432 /* places.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = places.swift; sourceTree = "<group>"; };
+		18D50F1D24C204CF00DBC432 /* TableViewController places.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TableViewController places.swift"; sourceTree = "<group>"; };
+		18D50F1F24C231E300DBC432 /* ViewControllerdetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerdetails.swift; sourceTree = "<group>"; };
+		18D50F2124C2325A00DBC432 /* ViewControllermaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllermaster.swift; sourceTree = "<group>"; };
+		18D50F2324C232F500DBC432 /* struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct.swift; sourceTree = "<group>"; };
+		18D50F2524C26A6200DBC432 /* ViewControllermuse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllermuse.swift; sourceTree = "<group>"; };
+		18D50F2724C33E3500DBC432 /* ViewControllermusedetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllermusedetailsViewController.swift; sourceTree = "<group>"; };
+		18D50F2924C3707D00DBC432 /* ViewControllerresturant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerresturant.swift; sourceTree = "<group>"; };
+		18D50F2B24C370A200DBC432 /* ViewControllerresturantdetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerresturantdetails.swift; sourceTree = "<group>"; };
+		18D50F2D24C370F500DBC432 /* ViewControllercafes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllercafes.swift; sourceTree = "<group>"; };
+		18D50F2F24C3710D00DBC432 /* ViewControllercafesdetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllercafesdetails.swift; sourceTree = "<group>"; };
+		18D50F3124C3715800DBC432 /* ViewControllerentertainment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerentertainment.swift; sourceTree = "<group>"; };
+		18D50F3324C3716C00DBC432 /* ViewControllerentertainmentdetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerentertainmentdetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +74,7 @@
 		18D50F0524B9F72400DBC432 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18D50F0424B9F72400DBC432 /* MY PROJECT.app */,
+				18D50F0424B9F72400DBC432 /* 6al3a.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -59,10 +85,23 @@
 				18D50F0724B9F72400DBC432 /* AppDelegate.swift */,
 				18D50F0924B9F72400DBC432 /* SceneDelegate.swift */,
 				18D50F0B24B9F72400DBC432 /* ViewController.swift */,
+				18D50F1F24C231E300DBC432 /* ViewControllerdetails.swift */,
+				18D50F1B24BF790900DBC432 /* places.swift */,
 				18D50F0D24B9F72400DBC432 /* Main.storyboard */,
+				18D50F2324C232F500DBC432 /* struct.swift */,
 				18D50F1024B9F73900DBC432 /* Assets.xcassets */,
 				18D50F1224B9F73900DBC432 /* LaunchScreen.storyboard */,
 				18D50F1524B9F73900DBC432 /* Info.plist */,
+				18D50F1D24C204CF00DBC432 /* TableViewController places.swift */,
+				18D50F2124C2325A00DBC432 /* ViewControllermaster.swift */,
+				18D50F2524C26A6200DBC432 /* ViewControllermuse.swift */,
+				18D50F2724C33E3500DBC432 /* ViewControllermusedetailsViewController.swift */,
+				18D50F2924C3707D00DBC432 /* ViewControllerresturant.swift */,
+				18D50F2B24C370A200DBC432 /* ViewControllerresturantdetails.swift */,
+				18D50F2D24C370F500DBC432 /* ViewControllercafes.swift */,
+				18D50F2F24C3710D00DBC432 /* ViewControllercafesdetails.swift */,
+				18D50F3124C3715800DBC432 /* ViewControllerentertainment.swift */,
+				18D50F3324C3716C00DBC432 /* ViewControllerentertainmentdetails.swift */,
 			);
 			path = "MY PROJECT";
 			sourceTree = "<group>";
@@ -84,7 +123,7 @@
 			);
 			name = "MY PROJECT";
 			productName = "MY PROJECT";
-			productReference = 18D50F0424B9F72400DBC432 /* MY PROJECT.app */;
+			productReference = 18D50F0424B9F72400DBC432 /* 6al3a.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -138,9 +177,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18D50F2C24C370A200DBC432 /* ViewControllerresturantdetails.swift in Sources */,
+				18D50F2824C33E3600DBC432 /* ViewControllermusedetailsViewController.swift in Sources */,
 				18D50F0C24B9F72400DBC432 /* ViewController.swift in Sources */,
+				18D50F2024C231E300DBC432 /* ViewControllerdetails.swift in Sources */,
+				18D50F3024C3710D00DBC432 /* ViewControllercafesdetails.swift in Sources */,
+				18D50F1E24C204D000DBC432 /* TableViewController places.swift in Sources */,
+				18D50F3424C3716C00DBC432 /* ViewControllerentertainmentdetails.swift in Sources */,
+				18D50F2224C2325A00DBC432 /* ViewControllermaster.swift in Sources */,
+				18D50F2424C232F500DBC432 /* struct.swift in Sources */,
 				18D50F0824B9F72400DBC432 /* AppDelegate.swift in Sources */,
+				18D50F2E24C370F500DBC432 /* ViewControllercafes.swift in Sources */,
 				18D50F0A24B9F72400DBC432 /* SceneDelegate.swift in Sources */,
+				18D50F2A24C3707D00DBC432 /* ViewControllerresturant.swift in Sources */,
+				18D50F3224C3715800DBC432 /* ViewControllerentertainment.swift in Sources */,
+				18D50F2624C26A6300DBC432 /* ViewControllermuse.swift in Sources */,
+				18D50F1C24BF790900DBC432 /* places.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,7 +343,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "ios.MY-PROJECT";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = 6al3a;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +360,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "ios.MY-PROJECT";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = 6al3a;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

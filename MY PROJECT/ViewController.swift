@@ -8,12 +8,27 @@
 
 import UIKit
 
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+
+    @IBAction func malls(_ sender: Any) {
+        
+    }
+    
+    @IBAction func cafes(_ sender: Any) {
+    }
+    @IBAction func entertaining(_ sender: Any) {
+    }
+    @IBAction func restaurants(_ sender: Any) {
+    }
+    @IBAction func museums(_ sender: Any) {
+    }
+
 
 
 }
